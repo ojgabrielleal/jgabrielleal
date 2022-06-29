@@ -11,9 +11,8 @@ Follow me?
 </div>
 
 <h3>👋 Projects I'm currently involved in</h3>
-<a href="https://akiba.com.br" target="_blank">Rede Akiba ( Laboratory )</a>
+<a href="https://akiba.com.br" target="_blank">📻 Rede Akiba ( Laboratory )</a>
 
-###
 
 <div align="center">
   <a href="https://github.com/ojoaogabrielleal">
