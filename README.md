@@ -1,4 +1,4 @@
-### Olá pessoas!!!👋
+### Olá pessoas\0/!!!👋
 
 Hello people! My name is João Gabriel, and I'm from Brazil (🇧🇷). I work as a full stack developer since 2020. I participate as a full stack developer in a web-radio project and news portal called "Rede Akiba" that serves as my laboratory and where I develop and learn new things.
 
@@ -13,6 +13,7 @@ Follow me?
 <h3>👋 Projects I'm currently involved in</h3>
 <a href="https://akiba.com.br" target="_blank">📻 Rede Akiba ( Laboratory )</a>
 
+____
 
 <div align="center">
   <a href="https://github.com/ojoaogabrielleal">
