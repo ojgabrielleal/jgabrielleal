@@ -10,7 +10,7 @@ Follow me?
     <a href="https://www.linkedin.com/in/joaogabriel79/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
 </div>
 
-<h3>👋 Projects I'm currently involved in</h3>
+<h3>👋 Projects i'm currently involved in</h3>
 <a href="https://akiba.com.br" target="_blank">📻 Rede Akiba ( Laboratory )</a>
 
 ____
