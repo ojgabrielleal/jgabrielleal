@@ -1,7 +1,7 @@
 ## Olá pessoas\0/!!! Bem vindos!👋 
 
-.Estudante de Programação
-.Javascript/PHP
+- Estudante de Programação
+- Javascript/PHP
 
 <div>
   <a href="https://github.com/ojoaogabrielleal">
