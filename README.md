@@ -1,8 +1,12 @@
-### Olá pessoas\0/!!!👋
+## Olá pessoas\0/!!! Bem vindos!👋 
+____
 
-Hello people! My name is João Gabriel, and I'm from Brazil (🇧🇷).I'm a developer in development and I'm a technology adept.
-
-Follow me? 
+<div align="center">
+  <a href="https://github.com/ojoaogabrielleal">
+  <img height="165em" src="https://github-readme-stats.vercel.app/api?username=thegabrielleal&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thegabrielleal&layout=compact&langs_count=7&theme=dark"/>
+</div>
+    
 
 <div>
   <a href="https://twitter.com/Kidztaku" target="_blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"></a>
@@ -21,12 +25,3 @@ Follow me?
   <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg">
 </div>
 <a href="https://akiba.com.br" target="_blank">📻 Rede Akiba ( Laboratory )</a>
-
-____
-
-<div align="center">
-  <a href="https://github.com/ojoaogabrielleal">
-  <img height="165em" src="https://github-readme-stats.vercel.app/api?username=thegabrielleal&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thegabrielleal&layout=compact&langs_count=7&theme=dark"/>
-</div>
-    
