@@ -2,6 +2,7 @@
 
 - 📚 Estudante de Programação<br>
 - 💻 Javascript/PHP<br>
+- ☕ Movido a café<br>
 
 <div>
   <a href="https://github.com/thegabrielleal">
