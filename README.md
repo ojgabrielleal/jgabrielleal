@@ -1,8 +1,8 @@
-## Olá pessoas\0/!!! Bem vindos!👋 
+## Olá pessoas\0/!!! Wellcome!👋 
 
-- 📚 Estudante de Programação<br>
-- 💻 Javascript/PHP<br>
-- ☕ Movido a café<br>
+- 📚 Programming student<br>
+- 💻 Javascript, PHP and more<br>
+- ☕ Coffee powered<br>
 
 <div>
   <a href="https://github.com/thegabrielleal">
