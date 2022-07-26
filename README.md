@@ -1,6 +1,6 @@
 ## Olá pessoas\0/!!! Wellcome!👋 
 
-- 📚 Programming student<br>
+- 📚 Brazilian programming student<br>
 - 💻 Javascript, PHP and more<br>
 - ☕ Coffee powered<br>
 
