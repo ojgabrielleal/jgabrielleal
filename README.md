@@ -1,5 +1,8 @@
 ## Olá pessoas\0/!!! Bem vindos!👋 
 
+.Estudante de Programação
+.Javascript/PHP
+
 <div>
   <a href="https://github.com/ojoaogabrielleal">
   <img height="165em" src="https://github-readme-stats.vercel.app/api?username=thegabrielleal&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
