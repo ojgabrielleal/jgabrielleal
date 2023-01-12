@@ -17,7 +17,7 @@
   <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jquery/jquery-original.svg">
 </div>
 
-## O que estou aprendendo mecher!!! =) 👩‍💻🤞
+## O que estou aprendendo mecher!!! =) 👨‍🎓🤏
 <div style="display: inline_block"><br>
   <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-plain-wordmark.svg">
 </div>
