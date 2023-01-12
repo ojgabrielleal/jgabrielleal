@@ -5,7 +5,7 @@
 - 💻 Javascript, PHP and more<br>
 - ☕ Coffee powered<br>
 
-## O que eu sei mecher!!! =) 👩‍💻🤞
+## O que eu sei mecher =)!!! I know how to work with
 <div style="display: inline_block"><br>
   <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
@@ -17,7 +17,7 @@
   <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jquery/jquery-original.svg">
 </div>
 
-## O que estou aprendendo mecher!!! =) 👨‍🎓🤏
+## O que estou aprendendo mecher =)!!! What am i learning
 <div style="display: inline_block"><br>
   <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-plain-wordmark.svg">
 </div>
