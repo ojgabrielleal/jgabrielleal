@@ -4,8 +4,6 @@
 - 📌 Developer in development<br>
 - 💻 Javascript, PHP and more<br>
 - ☕ Coffee powered<br>
-
-![Karanalpe Status](https://github-readme-stats.vercel.app/api?username=karanalpe&show_icons=true)
   
 <div style="display: inline_block"><br>
   <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
