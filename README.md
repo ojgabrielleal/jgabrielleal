@@ -2,7 +2,7 @@
 
 - 📚 Brazilian programming<br>
 - 📌 Developer in development<br>
-- 💻 Javascript, PHP and more<br>
+- 💻 Javascript, PHP and more and more<br>
 - ☕ Coffee powered<br>
 
 ## O que eu sei mecher! (°▽°)/ I know how to work with!
