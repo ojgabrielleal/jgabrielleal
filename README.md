@@ -17,12 +17,12 @@
   <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jquery/jquery-original.svg">
 </div>
 
-## O que estou aprendendo mecher! ☆ﾐ(o*･ω･)ﾉ	What am i learning!
+## O que estou aprendendo mecher! |	What am i learning!
 <div style="display: inline_block"><br>
   <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-plain-wordmark.svg">
 </div>
   
-## Siga-me nas redes sociais!! |･д･)ﾉ	Follow me on social networks!!
+## Siga-me nas redes sociais!! |	Follow me on social networks!!
   
 <div>
   <a href="https://twitter.com/_songartemis" target="_blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"></a>
