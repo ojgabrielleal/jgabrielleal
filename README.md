@@ -14,13 +14,13 @@ Aprendiz de desenvolvedor e atualmente estudante de ciências da computação, e
   <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jquery/jquery-original.svg">
 </div>
 
-## O que estou aprendendo aos poucos !
+## O que estou aprendendo aos poucos!
 <div style="display: inline_block"><br>
   <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg">
   <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg">
 </div>
   
-## Siga-me nas redes sociais!! |	Follow me on social networks!!
+## Onde me encontrar fora do Github!
   
 <div>
   <a href="https://twitter.com/jojogabrielw" target="_blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"></a>
