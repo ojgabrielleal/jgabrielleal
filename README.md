@@ -21,7 +21,6 @@ Aprendiz de desenvolvedor e atualmente estudante de ciências da computação, e
 </div>
   
 ## Onde me encontrar fora do Github!
-  
 <div>
   <a href="https://twitter.com/jojogabrielw" target="_blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"></a>
   <a href="https://instagram.com/jojo.gabrielleal" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
