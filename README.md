@@ -1,6 +1,6 @@
 ## Olá pessoa, seja bem vindo(a)!👋 
 
-Aprendiz de desenvolvedor e atualmente estudante de ciências da computação, estudo programação como auto-didata desde 2017 e comecei como a maioria, na boa e velha curiosidade.
+Sou um desenvolvedor em desenvolvimento e atualmente estudante de ciências da computação, estudo programação como auto-didata desde 2017 e comecei como a maioria, na boa e velha curiosidade.
 
 ## O que eu sei mecher até agora!
 <div style="display: inline_block"><br>
