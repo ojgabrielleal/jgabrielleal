@@ -17,6 +17,6 @@ Aprendiz de desenvolvedor e atualmente estudante de ciências da computação, e
 ## O que estou aprendendo aos poucos!
 <div style="display: inline_block"><br>
   <img title="Python" align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg">
-  <img title="Node" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-plain-wordmark.svg" />
+  <img title="Node" align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original-wordmark.svg" />
 </div>
   
