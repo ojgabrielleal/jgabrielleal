@@ -1,14 +1,19 @@
 <img align="right" height="200" style="margin-left: 25px" src="https://i.imgur.com/Tznn1IZ.gif"/>
 
 ```diff
-< João Gabriel 'gabescript'
+< João Gabriel 'gabescript' 🐱‍💻
+
 > Aprendiz de desenvolvedor
+> Conversa sobre tecnologia, memes e coisas aleatórias
+> Registra e reclama sobre o que faz no Twitter
+> Tenta postar nos repositórios sempre que poder
+
+! Desenvolvedor fullstack
+! Tem um carinho enorme pelo front end
+! Webmaster nas horas vagas em akiba.com.br
+! Estudante de ciências da computação
 
 ```
-## Olá pessoa, seja bem vindo(a)!👋 
-
-Aprendiz de desenvolvedor e atualmente estudante de ciências da computação, estudo programação como auto-didata desde 2017 e comecei como a maioria, na boa e velha curiosidade.
-
 ## Minhas skills!
 <div style="display: inline_block"><br>
   <img title="HTML 5" align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
