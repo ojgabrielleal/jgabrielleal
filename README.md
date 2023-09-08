@@ -1,7 +1,8 @@
 <img align="right" height="200" style="margin-left: 25px" src="https://i.imgur.com/Tznn1IZ.gif"/>
 
 ```diff
-
+< João Gabriel 'gabescript'
+> Aprendiz de desenvolvedor
 
 ```
 ## Olá pessoa, seja bem vindo(a)!👋 
