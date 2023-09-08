@@ -1,3 +1,5 @@
+<img align="right" height="200" style="margin-left: 25px" src="https://i.imgur.com/Tznn1IZ.gif"/>
+
 ## Olá pessoa, seja bem vindo(a)!👋 
 
 Aprendiz de desenvolvedor e atualmente estudante de ciências da computação, estudo programação como auto-didata desde 2017 e comecei como a maioria, na boa e velha curiosidade.
