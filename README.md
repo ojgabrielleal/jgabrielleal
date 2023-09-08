@@ -8,7 +8,7 @@
 > Registra e reclama sobre o que faz no Twitter/X '@gabescript'
 > Tenta postar nos repositórios sempre que poder
 
-! Desenvolvedor fullstack
+! Desenvolvedor web fullstack
 ! Tem um carinho enorme pelo front end
 ! Webmaster nas horas vagas em akiba.com.br
 ! Técnico de informática nas horas vagas em algum lugar
