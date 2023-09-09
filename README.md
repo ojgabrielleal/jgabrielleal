@@ -2,9 +2,9 @@
 
 ```diff
 < João Gabriel 'gabescript' ⭐
+< Conhecido em alguns lugares como 'suzuh' ⭐
 
 > Aprendiz de desenvolvedor
-> Conhecido em alguns lugares do discord como 'suzuh'
 > Conversa sobre tecnologia, memes e coisas aleatórias
 > Registra e reclama sobre o que faz no Twitter/X '@gabescript'
 > Tenta postar nos repositórios sempre que poder
