@@ -1,9 +1,10 @@
 <img align="right" height="200" style="margin-left: 25px" src="https://i.pinimg.com/originals/c0/12/dd/c012dd6e30c2d6a9925a69af3891960d.gif"/>
 
 ```diff
-< João Gabriel 'gabescript, conhecido em alguns lugares como suzuh xD' ⭐
+< João Gabriel 'gabescript' ⭐
 
 > Aprendiz de desenvolvedor
+> Conhecido em alguns lugares do discord como suzuh
 > Conversa sobre tecnologia, memes e coisas aleatórias
 > Registra e reclama sobre o que faz no Twitter/X '@gabescript'
 > Tenta postar nos repositórios sempre que poder
