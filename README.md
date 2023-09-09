@@ -2,7 +2,7 @@
 
 ```diff
 < João Gabriel 'gabescript' ⭐
-< Conhecido em alguns lugares como 'suzuh' ⭐
+< Também conhecido como 'suzuh' ⭐
 
 > Aprendiz de desenvolvedor
 > Conversa sobre tecnologia, memes e coisas aleatórias
