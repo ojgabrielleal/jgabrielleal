@@ -1,6 +1,5 @@
-<img align="right" height="200" style="margin-left: 25px; margin-right: 25px" src="https://media.tenor.com/b0zFR-gNdLAAAAAi/dream-robot.gif"/>
+<img align="right" height="200" style="margin-left: 25px; margin-right: 25px" src="https://media.tenor.com/8UWfGAWOOMwAAAAi/dream-robot.gif"/>
 
-<div style="margin-right: 25px">
 ```diff
 < João Gabriel ⭐
 < Também conhecido como 'suzuh' ⭐
@@ -17,7 +16,6 @@
 ! Estudante de ciências da computação
 
 ```
-</div>
 ### ⚙️ Minhas skills!
 
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
