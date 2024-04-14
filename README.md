@@ -4,7 +4,7 @@
 < João Gabriel ⭐
 < Também conhecido como 'suzuh' ⭐
 
-> Aprendiz de desenvolvedor
+> Um desenvolvedor em desenvolvimento
 > Conversa sobre tecnologia, memes e coisas aleatórias
 > Registra e reclama sobre o que faz no Twitter/X '@gabescript'
 > Tenta postar nos repositórios sempre que poder
