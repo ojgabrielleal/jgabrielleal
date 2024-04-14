@@ -11,7 +11,7 @@
 
 ! Desenvolvedor web fullstack
 ! Tem um carinho enorme pelo front end
-! Webmaster nas horas vagas em akiba.com.br
+! Fazendo experiências nas horas vagas em akiba.com.br
 ! Técnico de informática nas horas vagas em algum lugar
 ! Estudante de ciências da computação
 
