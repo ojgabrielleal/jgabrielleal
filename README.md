@@ -6,7 +6,7 @@
 
 > Um desenvolvedor em desenvolvimento
 > Conversa sobre tecnologia, memes e coisas aleatórias
-> Registra e reclama sobre o que faz no Twitter/X '@gabescript'
+> Reclama sobre o dia a dia no Twitter/X '@gabescript'
 > Tenta postar nos repositórios sempre que poder
 
 ! Desenvolvedor web fullstack
