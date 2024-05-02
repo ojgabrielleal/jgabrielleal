@@ -6,8 +6,8 @@
 
 > Um desenvolvedor em desenvolvimento
 > Conversa sobre tecnologia, memes e coisas aleatórias
-> Reclama sobre o dia a dia no Twitter/X '@gabescript'
-> Tenta postar nos repositórios sempre que poder
+> Reclama sobre o dia a dia no Twitter/X
+> Tenta postar nos repositórios sempre que pode
 
 ! Desenvolvedor web fullstack
 ! Tem um carinho enorme pelo front end
