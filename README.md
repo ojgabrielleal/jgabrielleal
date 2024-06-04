@@ -9,13 +9,11 @@
 > Tenta atualizar os repositórios sempre que pode
 
 ! Desenvolvedor web fullstack
-! Tem um carinho enorme pelo front end
-! Fazendo experiências nas horas vagas em akiba.com.br
-! Técnico de informática nas horas vagas em algum lugar
-! Estudante de ciências da computação
+! Fazendo experiências nas horas vagas em "akiba.com.br"
+! Estudante de Ciências da Computação
 
 ```
-### ⚙️ Minhas skills!
+### ⚙️ Meu conhecimento razoável
 <div style="display: flex; flex-wrap: wrap;">
     <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5">
     <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3">
@@ -42,7 +40,7 @@
 </div>
 
 
-### 👋 Fale comigo!
+### 👋 Mande um alô!
 <a href="https://www.linkedin.com/in/joaogabrielleal/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></img></a>
 
 
