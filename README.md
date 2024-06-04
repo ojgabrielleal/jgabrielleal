@@ -2,7 +2,6 @@
 
 ```diff
 < João Gabriel ⭐
-< Também conhecido como 'suzuh' ⭐
 
 > Um desenvolvedor em desenvolvimento
 > Conversa sobre tecnologia, memes e coisas aleatórias
