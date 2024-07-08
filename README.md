@@ -1,4 +1,4 @@
-<img align="right" height="100" style="margin-left: 25px; margin-right: 25px" src="https://media.tenor.com/ntvRiUFsQ0QAAAAi/dream-robot.gif"/>
+<img align="right" height="200" style="margin-left: 25px; margin-right: 25px" src="https://media.tenor.com/ntvRiUFsQ0QAAAAi/dream-robot.gif"/>
 
 ```diff
 < João Gabriel ⭐
