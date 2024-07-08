@@ -1,4 +1,4 @@
-<img align="right" height="200" style="margin-left: 25px; margin-right: 25px" src="https://media.tenor.com/8UWfGAWOOMwAAAAi/dream-robot.gif"/>
+<img align="right" height="100" style="margin-left: 25px; margin-right: 25px" src="https://media.tenor.com/ntvRiUFsQ0QAAAAi/dream-robot.gif"/>
 
 ```diff
 < João Gabriel ⭐
@@ -8,7 +8,7 @@
 > Reclama sobre o dia a dia no Twitter/X
 > Tenta atualizar os repositórios sempre que pode
 
-! Desenvolvedor web fullstack
+! Desenvolvedor full stack
 ! Fazendo experiências nas horas vagas em "akiba.com.br"
 ! Estudante de Ciências da Computação
 
