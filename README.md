@@ -1,16 +1,15 @@
 <img align="right" height="200" style="margin-left: 25px; margin-right: 25px" src="https://media.tenor.com/ntvRiUFsQ0QAAAAi/dream-robot.gif"/>
 
 ```diff
-< João Gabriel ⭐
+Olá eu sou o João Gabriel ⭐
 
-> Um desenvolvedor em desenvolvimento
-> Conversa sobre tecnologia, memes e coisas aleatórias
-> Reclama sobre o dia a dia no Twitter/X
-> Tenta atualizar os repositórios sempre que pode
+Um desenvolvedor em desenvolvimento
+Converso sobre tecnologia, memes e coisas aleatórias
+Reclamo sobre o dia a dia no Twitter/X
 
-! Desenvolvedor full stack
-! Fazendo experiências nas horas vagas em "akiba.com.br"
-! Estudante de Ciências da Computação
+Estou tentando chegar a desenvolvedor full stack
+Faço experiências nas horas vagas em "akiba.com.br"
+Atualmente sou estudante de Ciências da Computação
 
 ```
 ### ⚙️ Meu conhecimento razoável
