@@ -6,7 +6,7 @@ Mais um desenvolvedor nesse Brasil! Atualmente atuo como desenvolvedor full stac
 
 ---
 
-## 🚀 Tecnologias que conheço razoavelmente bem
+## 🚀 Conheço razoavelmente bem
 
 ### 🧠 Linguagens & Frameworks
 
