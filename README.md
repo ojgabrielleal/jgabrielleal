@@ -52,7 +52,5 @@ Mais um desenvolvedor nesse Brasil! Atualmente atuo como desenvolvedor full stac
 <a href="https://twitter.com/ojgabrielleal" target="_blank">
   <img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=twitter&logoColor=white" />
 </a>
-Se quiser, posso te ajudar a integrar isso diretamente num site Docusaurus ou gerar preview local. Quer?
-
 
 
